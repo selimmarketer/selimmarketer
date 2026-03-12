@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/637995492_887832567573740_2233181293401342395_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=dgNampm4DUgQ7kNvwH4FbiB&_nc_oc=AdlAorJT4fm8IxI-_cy-B7gjdrVdNes8bNoWtfcsrik2b6T_SRqeD_jI8YrY6jlO04k&_nc_zt=23&_nc_ht=scontent.fdac90-1.fna&_nc_gid=lKEcFJnLnLnE1HQ_NZJhUA&_nc_ss=8&oh=00_AfzjWoh6G6gG0Tie2a-7YA8MUqaeaaDtWFAxhSsfjRJL-w&oe=69B81095" width="100%" alt="Md Selim Hossain Banner">
+
 </p>
 # Hi 👋, I'm Md Selim Hossain
 ### AI Automation Architect & Founder of SolviX Agency
-I help Dubai Real Estate Agents and Off-plan Specialists scale their revenue by bridging the gap between **Marketing Psychology** and **AI Automation**. With 20 years of experience, I don't just build bots; I architect 24/7 intelligent sales engines.
+<p align="center">
+  <img src="https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/637995492_887832567573740_2233181293401342395_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=2a1932&_nc_ohc=dgNampm4DUgQ7kNvwH4FbiB&_nc_oc=AdlAorJT4fm8IxI-_cy-B7gjdrVdNes8bNoWtfcsrik2b6T_SRqeD_jI8YrY6jlO04k&_nc_zt=23&_nc_ht=scontent.fdac90-1.fna&_nc_gid=lKEcFJnLnLnE1HQ_NZJhUA&_nc_ss=8&oh=00_AfzjWoh6G6gG0Tie2a-7YA8MUqaeaaDtWFAxhSsfjRJL-w&oe=69B81095" width="100%" alt="Md Selim Hossain Banner">
+I help Dubai Real Estate Agents and Off-plan Specialists scale their revenue by bridging the gap between Marketing Psychology and AI Automation. With 20 years of experience, I don't just build bots; I architect 24/7 intelligent sales engines.
 
 ---
 

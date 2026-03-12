@@ -1,5 +1,6 @@
-# Hi there 👋, I'm Md Selim Hossain
+# Hi 👋, I'm Md Selim Hossain
 ### AI Automation Architect & Founder of SolviX Agency
+(https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/637995492_887832567573740_2233181293401342395_n.jpg?
 
 I help Dubai Real Estate Agents and Off-plan Specialists scale their revenue by bridging the gap between **Marketing Psychology** and **AI Automation**. With 20 years of experience, I don't just build bots; I architect 24/7 intelligent sales engines.
 
